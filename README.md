@@ -23,4 +23,8 @@ The function has two parameters: dataframe, which is the DataFrame to be analyze
 <center><img src="https://github.com/Sura5/Datamining/blob/main/Statics%203.png" align="center" height="350"></center>
 <center><img src="https://github.com/Sura5/Datamining/blob/main/Statics4.png" align="center" height="350"></center>
 
+3-Correlation matrix
+
+<center><img src="https://github.com/Sura5/Datamining/blob/main/correlation%20matrix.png" align="center" height="350"></center>
+
 
