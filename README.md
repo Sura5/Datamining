@@ -8,3 +8,5 @@ Here is My steps of `
 1- import libraries and Read Data
 
 <center><img src="https://github.com/Sura5/Datamining/blob/main/Import%20libraries.png" align="center" height="350"></center>
+<center><img src="https://github.com/Sura5/Datamining/blob/main/Read%20data.png" align="center" height="350"></center>
+
