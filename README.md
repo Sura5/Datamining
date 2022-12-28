@@ -10,3 +10,12 @@ Here is My steps of `
 <center><img src="https://github.com/Sura5/Datamining/blob/main/Import%20libraries.png" align="center" height="350"></center>
 <center><img src="https://github.com/Sura5/Datamining/blob/main/Read%20data.png" align="center" height="350"></center>
 
+
+2-Summary Statistics
+To get a summary of the numerical columns in the data, you can use the some function.
+This code defines a function called check_df that takes a DataFrame as input and prints various information about the DataFrame, including its shape, data types, head, tail, missing values, and quantiles.
+
+The function has two parameters: dataframe, which is the DataFrame to be analyzed, and head, which is the number of rows to print for the head and tail of the DataFrame. The default value for head is 5.
+
+
+
